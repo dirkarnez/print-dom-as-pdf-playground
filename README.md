@@ -5,6 +5,8 @@ print-dom-as-pdf-playground
   - [jcdang/print-pdf: Prints DOM Elements to PDF](https://github.com/jcdang/print-pdf)
 - [dom-to-pdf](./dom-to-pdf)
   - [ovvn/dom-to-pdf: Generates a printable paginated pdf from DOM node using HTML5 canvas and svg](https://github.com/ovvn/dom-to-pdf)
+- [window.print](./window.print)
+  - [js页面实现打印 iframe + window.print()_iframe监听不到afterprint-CSDN博客](https://blog.csdn.net/stpzhf/article/details/134441620)
 
 ### Tutorials
 - [How trigger browser to make a PDF from HTML using window.print() - DEV Community](https://dev.to/climentea/simple-way-to-generate-pdf-from-html-21mh)
